@@ -3,6 +3,7 @@ var
 path = require('path'),
 
 // test comment
+// another test commit
 
 lr = require('tiny-lr'),
 server = lr(),
