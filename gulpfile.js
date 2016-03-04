@@ -4,6 +4,7 @@ path = require('path'),
 
 // test comment
 // another test commit
+// another comment
 
 lr = require('tiny-lr'),
 server = lr(),
