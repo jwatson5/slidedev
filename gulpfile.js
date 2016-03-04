@@ -2,6 +2,8 @@ var
 // node
 path = require('path'),
 
+// test comment
+
 lr = require('tiny-lr'),
 server = lr(),
 
